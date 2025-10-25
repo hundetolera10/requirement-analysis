@@ -55,3 +55,32 @@ Examining, refining, and organizing requirements to identify conflicts, redundan
 
 Requirement Validation:
 Ensuring that documented requirements accurately reflect stakeholder needs and are feasible, testable, and complete before development begins.
+
+📌 Types of Requirements
+1. Functional Requirements
+
+Definition: Functional requirements define what the system should do, the specific behaviors, features, and functions that the software must support.
+
+Examples for a Booking Management System:
+
+Users can search for available properties by location, date, and price.
+
+Registered users can create and manage bookings.
+
+The system must provide secure login and authentication.
+
+Users receive email confirmations for each booking made.
+
+2. Non-Functional Requirements
+
+Definition: Non-functional requirements define how the system performs, specifying constraints, quality attributes, and performance metrics rather than specific behaviors.
+
+Examples for a Booking Management System:
+
+The website should load within 2 seconds for optimal user experience.
+
+The system should handle up to 500 concurrent users without crashing.
+
+All user data must be encrypted and comply with privacy regulations.
+
+The application should be available 99.9% of the time (high availability).
