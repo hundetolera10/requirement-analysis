@@ -84,3 +84,6 @@ The system should handle up to 500 concurrent users without crashing.
 All user data must be encrypted and comply with privacy regulations.
 
 The application should be available 99.9% of the time (high availability).
+
+<img width="3948" height="1052" alt="image" src="https://github.com/user-attachments/assets/0e460c66-bc44-4234-9ab4-9f932a8a84a4" />
+
