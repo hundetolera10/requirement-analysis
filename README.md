@@ -85,5 +85,34 @@ All user data must be encrypted and comply with privacy regulations.
 
 The application should be available 99.9% of the time (high availability).
 
+✅ Acceptance Criteria
 
+Definition:
+Acceptance Criteria (AC) are the predefined conditions or requirements that a software feature must meet for it to be accepted by stakeholders or end users. They serve as a checklist to confirm whether a particular function or feature behaves as expected.
+
+Importance in Requirement Analysis:
+
+Ensure that every requirement is testable and measurable.
+
+Align stakeholders and developers on the definition of “done.”
+
+Reduce misunderstandings and ambiguity in feature implementation.
+
+Serve as the foundation for user acceptance testing (UAT).
+
+💡 Example: Acceptance Criteria for the Checkout Feature
+
+Feature: Checkout Process in Booking Management System
+
+Acceptance Criteria:
+
+The system should allow users to review booking details before confirming payment.
+
+The user must be able to select a payment method (credit card, PayPal, or mobile payment).
+
+The system must display a confirmation message after successful payment.
+
+An email confirmation must be automatically sent to the user within 1 minute of checkout.
+
+If payment fails, the system should display an error message and allow the user to retry.
 
